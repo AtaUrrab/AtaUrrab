@@ -2,7 +2,8 @@ Hey, This is Atta, I am a Full Stack Developer :)
 You can reach me out:
 
 
-[![Gmail](https://img.shields.io/badge/Gmail-%23d9534f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ataurrab56@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-%23d9534f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ataurrab56@gmail.com)       [![Upwork](https://img.shields.io/badge/Upwork-%23 6db33f ?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~010265848fae8ffe2e)
+
 
 <!---
 AtaUrrab/AtaUrrab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
