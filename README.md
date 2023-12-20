@@ -1,5 +1,7 @@
 Hey, This is Atta, I am a Full Stack Developer :)
-REACH ME OUT: 
+You can reach me out:
+
+
 [![Gmail](https://img.shields.io/badge/Gmail-%23d9534f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ataurrab56@gmail.com)
 
 <!---
